@@ -2,8 +2,8 @@
 category: work-2017
 published: true
 layout: post
-title: Hbase
-description: Hbase设计指南.
+title: Kylin
+description: Kylin设计指南.
 ---
 
 ## 1、RowKey的设计
