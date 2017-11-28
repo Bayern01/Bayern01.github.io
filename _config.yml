@@ -7,7 +7,7 @@ permalink: /:title
 encoding: UTF-8
 gems: [jekyll-paginate]
 
-title: Github Blog Template
+title: My blog
 url: http://Bayern01.github.io
 feed: /atom.xml
 author_info: <a href="http://Bayern01.github.io/">Bayern01</a>
@@ -18,4 +18,4 @@ myblog:
   coverimgs: []
   postbgimg: []
 
-categories: [work, books]
+categories: [books, work]
