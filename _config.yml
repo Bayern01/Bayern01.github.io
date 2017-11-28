@@ -13,10 +13,9 @@ feed: /atom.xml
 author_info: <a href="http://Bayern01.github.io/">Bayern01</a>
 
 myblog:
-  gavatar: images/2.jpg
   github: https://github.com/Bayern01
   email: mailto:4178308@qq.com
   coverimgs: []
   postbgimg: []
 
-categories: [python, books]
+categories: [work, books]
