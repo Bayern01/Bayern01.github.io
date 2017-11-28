@@ -1,8 +1,8 @@
 ---
-category: books-2016
+category: books-2017
 published: true
 layout: post
-title: 『 读书笔记 』4月读书总结｜博文推荐
+title: Hadoop
 description: the more you read, the more you think, better you'll be.
 ---
 
