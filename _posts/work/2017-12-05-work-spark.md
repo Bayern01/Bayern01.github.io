@@ -7,9 +7,9 @@ description: Spark环境搭建指南.
 ---
 
 ## 1、软件下载
-			在清华镜像网下载spark-2.2.0-bin-without-hadoop.tgz：https://mirrors.tuna.tsinghua.edu.cn/apache/spark/spark-2.2.0/
-			在官网上下载scala 2.10.4: http://www.scala-lang.org/download/2.10.4.html
-			解压并拷贝spark到/opt目录，解压并拷贝scala到/usr/lib目录下
+在清华镜像网下载spark-2.2.0-bin-without-hadoop.tgz：https://mirrors.tuna.tsinghua.edu.cn/apache/spark/spark-2.2.0/
+在官网上下载scala 2.10.4: http://www.scala-lang.org/download/2.10.4.html
+解压并拷贝spark到/opt目录，解压并拷贝scala到/usr/lib目录下
 
 ## 2、设置环境变量：
 	 vi /etc/profile
